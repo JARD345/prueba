@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 int main() {
+    //haciendo pruebas
     int a=4;
     int b=6;
     int contador = 0;
